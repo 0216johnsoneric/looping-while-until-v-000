@@ -1,3 +1,4 @@
+counter = 0
 def using_until
   puts "Wingardium Leviosa"
 end
